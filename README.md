@@ -36,5 +36,5 @@ Navegue até a pasta do projeto e execute o arquivo Python:
 
 ```bash
 
-python main.py
+python index.py
 ```
